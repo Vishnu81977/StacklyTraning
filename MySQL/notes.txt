@@ -1,0 +1,30 @@
+Database:
+---------
+>> It is an organized collection of related data. It is easy to retrive, modify the data.
+
+RDBMS --> Relational Database Management Systems 
+-------
+>> The data are stored in form of Tables(Rows, Cols).
+>> It uses SQL.
+Ex: MySQL, PostgreSQL, Oracle......
+
+DBMS 
+------
+>> The data are stored in form of Documents(BSON).
+Ex: MongoDB.
+
+Database ---> Tables --> Data 
+(Schema)
+
+MySQL 
+---------
+>> Open source Relational Database Management System.
+
+SQL - Structured Query Language
+------
+Syntax:
+--------
+>> Case Insensitive(a = A)
+SELECT * FROM tbname;
+select * from tbname;
+>> Delimiter. ";"
